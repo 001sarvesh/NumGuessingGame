@@ -28,7 +28,7 @@ The CSS file styles the game interface, enhancing the user experience with layou
 ![Game Screenshot](https://github.com/001sarvesh/NumGuessingGame/blob/main/SSn.JPG)
 
 ## Demo
-Check out the live demo [here](link_to_live_demo).
+Check out the live demo [here]( https://001sarvesh.github.io/NumGuessingGame/).
 
 ## Author
 - Sarvesh Shukla
