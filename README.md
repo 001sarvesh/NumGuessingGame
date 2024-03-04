@@ -25,7 +25,7 @@ The HTML file defines the structure of the game interface, including input field
 The CSS file styles the game interface, enhancing the user experience with layout, colors, and animations.
 
 ## Screenshots
-![Game Screenshot](relative/path/to/screenshot.png)
+![Game Screenshot](https://github.com/001sarvesh/NumGuessingGame/blob/main/SSn.JPG)
 
 ## Demo
 Check out the live demo [here](link_to_live_demo).
