@@ -1,5 +1,5 @@
 
-let randomNumber = parseInt(Math.floor(Math.random() * 1000) + 1);
+let randomNumber = parseInt(Math.floor(Math.random() * 100) + 1);
 
 const submit = document.querySelector('#subt');
 const userInput = document.querySelector('#guessField');
@@ -29,7 +29,7 @@ function validateGuess(guess) {
     alert('PLease enter a valid number');
   } else if (guess < 1) {
     alert('PLease enter a number more than 1');
-  } else if (guess > 1000) {
+  } else if (guess > 100) {
     alert('PLease enter a  number less than 100');
   } else {
     prevGuess.push(guess);
