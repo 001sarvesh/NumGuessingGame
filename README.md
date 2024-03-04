@@ -30,17 +30,8 @@ The CSS file styles the game interface, enhancing the user experience with layou
 ## Demo
 Check out the live demo [here](link_to_live_demo).
 
-## Contributing
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request. Follow the guidelines in the [CONTRIBUTING.md](link_to_contributing_file) file.
-
-## License
-This project is licensed under the [MIT License](link_to_license_file).
-
 ## Author
-- Your Name
-- [GitHub Profile](link_to_your_github_profile)
+- Sarvesh Shukla
+- [001Sarvesh](https://github.com/001sarvesh)
 
-## Changelog
-### Version 1.0.0 (YYYY-MM-DD)
-- Initial release.
 
